@@ -5,3 +5,4 @@ class Clothing implements IProduct {
         visitor.visitClothing(this);
     }
 }
+
