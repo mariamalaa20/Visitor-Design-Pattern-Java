@@ -5,7 +5,7 @@ A Java implementation of the **Visitor Design Pattern** to dynamically apply pri
 ---
 
 ##  Features
-
+ 
 *  **Visitor Pattern**: Clean separation between operations and object structure
 *  **Easily Extensible**: Add new pricing rules or product types with minimal changes
 *  **Clear Output**: Prints applied pricing logic for each product
